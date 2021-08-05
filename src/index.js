@@ -1,6 +1,8 @@
-const accountInfo = {
-  name: 'Bidit',
-  profile: 'Fullstack Javascript Developer'
-}
+import "./styles/index.scss";
 
-console.log(accountInfo)
+const accountInfo = {
+  name: "Bidit",
+  profile: "Fullstack Javascript Developer"
+};
+
+console.log(accountInfo);

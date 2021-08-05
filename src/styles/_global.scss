@@ -1,0 +1,7 @@
+@use "variables";
+
+body {
+  background-color: variables.$bg;
+  font-size: 3rem;
+  color: var(--text);
+}
